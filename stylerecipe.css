@@ -1,0 +1,277 @@
+.recipe-image {
+display: block;
+margin: 0 auto;
+width: 95%; 
+border-radius: 20px
+}
+
+h1{
+ text-align: left;
+ margin-left: 20px;
+ margin-top: 35px;
+}
+ 
+* {
+margin: 0px;
+padding: 0;
+box-sizing: border-box;
+}
+ 
+body {
+margin: 10px;
+font-family: 'Young Serif', serif;
+background-color: #ffffff; 
+color: #70554C; 
+font-size: 16px; 
+nav-down: 50px;
+nav-up: 50px;
+nav-right: 50px;
+nav-left: 50px;
+}
+ 
+header {
+text-align: center;
+padding: 20px;
+}
+ 
+.title {
+font-weight: 700;
+color:#1D1D1D; 
+margin-bottom: 10px;
+}
+ 
+.description {
+color: #252628; 
+}
+ 
+section {
+margin: 20px;
+border-radius: 20px; 
+background-color: #FFFFFF; 
+padding: 20px; 
+}
+ 
+.preparation ul {
+list-style-type: none;
+font-weight: 200;
+color:#534333
+}
+ 
+.preparation li {
+margin-bottom: 5px;
+margin-left: 30px;
+}
+ 
+.ingredients ul {
+list-style-type: none;
+}
+ 
+.ingredients li {
+margin-bottom: 5px;
+}
+ 
+.instructions ol {
+list-style-type: decimal;
+padding-left: 20px;
+}
+
+.instructions li {
+margin-bottom: 10px;
+}
+ 
+.nutrition {
+margin-top: 0px;
+}
+ 
+.nutrition-info {
+display: flex;
+flex-direction: column;
+}
+ 
+.nutrition-item {
+display: flex;
+justify-content: space-between;
+align-items: center; 
+margin-bottom: 10px;
+margin-left: 9px;
+}
+ 
+.nutrition-item span {
+flex-basis: auto;
+text-align: left; 
+margin-right: 10px; 
+}
+
+.nutrition-item span{
+flex-basis: auto; 
+text-align: center; 
+margin-right: 300px; 
+}
+
+.preparation {
+background-color: #FCF1F1; 
+border-radius: 20px; 
+padding: 20px; 
+margin-bottom: 20px; 
+color: #77485C;
+}
+
+w-tag{
+font-weight: 900;
+}
+
+h2{
+color: #714032; 
+}
+
+li span {
+font-weight: normal; 
+}
+
+body{
+background-color: #ffffff
+margin: 20px;
+border: 175px solid #f5e4da
+}
+  
+    
+
+ul{
+font-family: "Outfit", sans-serif;
+}
+
+listtag{
+font-weight: 900;
+}
+ 
+.ingredients li::before{
+content: '';
+position: absolute;
+left: 0;
+top: 50%;
+transform: translateY(-50%);
+width: 5px;
+height: 5px;
+background-color: #000;
+border-radius: 50%;
+}
+
+ol{
+font-family: "Outfit", sans-serif
+}
+
+h3{
+font-family: "Outfit", sans-serif;
+font-size: 16px;
+}
+
+h4{
+font-family: "Outfit", sans-serif;
+font-size: 20px;
+}
+
+.preparation h2 {
+margin-bottom: 10px; 
+}
+ 
+.preparation-box ul {
+list-style-type: disc; 
+padding-left: 20px; 
+}
+ 
+.preparation-box li {
+margin-bottom: 5px; 
+}
+
+.ingredients-box ul{
+list-style-type: disc; 
+padding-left: 20px; 
+}
+
+.ingredients-box li{
+margin-bottom: 5px;
+}
+
+li{
+padding-left: 32px;
+}
+
+p{
+font-family: "Outfit", sans-serif;
+}
+
+span{
+color: #714032;
+}
+
+.nutrition-item{
+color: #714032;S
+font-family: "Outfit", sans-serif;
+}
+ 
+nav {
+color: #000;
+}
+
+h5{
+color: #FCF1F1; 
+}
+
+h6{
+color: #ffffff;
+}
+
+.nutrition{
+margin-left: 2px;
+text-align: left;
+}
+
+
+.instructions{
+margin-left: 15px;
+}
+
+body{
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+
+ol{
+margin: left 20px;;
+}
+
+hr {
+margin-bottom: 2px;
+}
+
+p {
+margin-top: 2px;
+}
+
+div {
+
+    border-radius: 3%
+}
+
+nav {
+    background-color:#714032;
+    color: #1D1D1D;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav a:hover {
+color: #1D1D1D;
+background-color:#FFFFFF
+}
+
+
+
+
+
+
